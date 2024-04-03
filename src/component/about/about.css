@@ -1,0 +1,18 @@
+#aboutpage{
+    margin-left: 10rem;
+    margin-right: 10rem;
+    padding: 4rem 3rem;
+    background-color: rgb(3, 29, 51);
+
+}
+.heading{
+    font-size: 4rem;
+    font-weight: 700;
+    margin-left: 20rem;
+    color: gold;
+}
+.detail{
+    font-size: 1.4rem;
+    padding-top: 2.5rem;
+    line-height: 2.5rem;
+}

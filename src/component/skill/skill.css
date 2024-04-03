@@ -1,0 +1,43 @@
+#skillpage{
+    margin-top: 10rem;
+    
+}
+.skill-heading{
+margin-left: 34rem;
+font-size: 4rem;
+font-weight: 700;
+color: gold;
+}
+.container{
+    /* background-color: rgb(12, 34, 68); */
+ display: grid;
+ grid-template-columns: repeat(3,1fr);
+ margin:5% 2%;
+ grid-gap:4rem;
+ padding-left: 14rem;
+
+
+}
+.img1{
+height: 100px;
+width: 97px;
+border-radius: 50px;
+border: 5px solid gold;
+ padding: 1rem; 
+ box-shadow: 0 0 5px gold,0 0 10px gold,0 0 15px gold;
+
+}
+.part-title{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.title{
+    margin-left: 1rem;
+    font-size: 1.5rem;
+}
+.part-title:hover{
+    cursor: pointer;
+    transform:scale(1.1);
+
+}

@@ -1,0 +1,9 @@
+.last{
+    height: 3rem;
+     background-color: rgb(71, 72, 73);
+ }
+ .last p{
+     margin-left: 30rem;
+     font-size: 1rem;
+    padding-top: 1.1rem;
+ }

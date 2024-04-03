@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/nigest_portfolio/static/css/main.b2dbef30.css",
+    "main.js": "/nigest_portfolio/static/js/main.8329872e.js",
+    "static/media/pro pic1.PNG": "/nigest_portfolio/static/media/pro pic1.3a2cd59e95a4a61907c3.PNG",
+    "static/media/nigest pic2.png": "/nigest_portfolio/static/media/nigest pic2.845ea49c45e4eb8d309a.png",
+    "static/media/react pic.png": "/nigest_portfolio/static/media/react pic.6bcffb56bd0efaa47767.png",
+    "static/media/pro pic3.png": "/nigest_portfolio/static/media/pro pic3.a1e74c79f1a0477c079e.png",
+    "static/media/java pic.png": "/nigest_portfolio/static/media/java pic.fdabd4e11f1235e4e8e0.png",
+    "static/media/css pic (1).png": "/nigest_portfolio/static/media/css pic (1).bee63b9e863f48d93bda.png",
+    "static/media/database pic.png": "/nigest_portfolio/static/media/database pic.f0b0c8229b3c09657354.png",
+    "static/media/javascript pic.webp": "/nigest_portfolio/static/media/javascript pic.1053926cf2f54323bdc1.webp",
+    "static/media/pro pic2.png": "/nigest_portfolio/static/media/pro pic2.7d2d347a2bbd82d3c0cf.png",
+    "static/media/htmlpic.png": "/nigest_portfolio/static/media/htmlpic.d9d05b93909e56f6a45f.png",
+    "static/media/logo.png": "/nigest_portfolio/static/media/logo.b391073d5b0b02de6ef8.png",
+    "index.html": "/nigest_portfolio/index.html",
+    "main.b2dbef30.css.map": "/nigest_portfolio/static/css/main.b2dbef30.css.map",
+    "main.8329872e.js.map": "/nigest_portfolio/static/js/main.8329872e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2dbef30.css",
+    "static/js/main.8329872e.js"
+  ]
+}
